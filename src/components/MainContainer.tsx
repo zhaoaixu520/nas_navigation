@@ -75,7 +75,7 @@ export const MainContainer = () => {
       {
         name: "Photos",
         icon: photosPic,
-        goto: `${window.location.protocol}//${window.location.hostname}:5000/?launchApp=SYNO.Foto.AppInstance&SynoToken=Re84hbblDjebQ`,
+        goto: `${window.location.protocol}//${window.location.hostname}:5000/?launchApp=SYNO.Foto.AppInstance&SynoToken=`,
       },
       {
         name: "qBittorrent",
